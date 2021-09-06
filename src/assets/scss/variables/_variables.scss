@@ -1,0 +1,29 @@
+@import '../fonts/fonts';
+
+//base variables
+$brand-color-base-light-theme: #ebebeb; 
+$brand-color-base-dark-theme: #2b2b2b; 
+
+
+// shades of light theme 
+$brand-color-light-1: #a3a3a3;
+$brand-color-light-2: #e3e3e3;
+$brand-color-light-3: #f7f7f7;
+$brand-color-light-4: #464646;
+
+//shades of dark theme 
+$brand-color-dark-1: #383838;
+$brand-color-dark-2: #404040;
+$brand-color-dark-3: #8c8c8c;
+$brand-color-dark-4: #c0c0c0;
+
+//fonts family for light theme 
+$fonts-light-theme: 'Oswald-Regular';
+$fonts-bold-light-theme: 'Oswald-Bold';
+
+//fonts family for dark theme 
+$fonts-dark-theme: 'Heebo-Regular';
+$fonts-bold-dark-theme: 'Heebo-Bold';
+
+//colors of the basic elements
+$base-element-color-1: #e05d5d;
